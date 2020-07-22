@@ -3,12 +3,9 @@
 ## Demo
 
 <p align="center">
-    <img src="https://github.com/nuronbeck/jokes_demo/demo/demo_mobile.gif">
+    <img src="https://im4.ezgif.com/tmp/ezgif-4-30839bbe5744.gif">
 </p>
 
-<p align="center">
-    <img src="https://github.com/nuronbeck/jokes_demo/demo/img_1.png">
-</p>
 
 ## Technologies
 
