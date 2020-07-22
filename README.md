@@ -1,5 +1,15 @@
 # CHUCK's Jokes
 
+## Demo
+
+<p align="center">
+    <img src="https://github.com/nuronbeck/jokes_demo/demo/demo_mobile.gif">
+</p>
+
+<p align="center">
+    <img src="https://github.com/nuronbeck/jokes_demo/demo/img_1.png">
+</p>
+
 ## Technologies
 
 - [Vue JS](https://vuejs.org/).
